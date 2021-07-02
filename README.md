@@ -1,0 +1,2 @@
+# Medium_Article_Tutorial_Bar_Plotly_Python
+# Medium_Article_Tutorial_Bar_Plotly_Python
